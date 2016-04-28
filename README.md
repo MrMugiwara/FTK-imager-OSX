@@ -42,5 +42,5 @@ The FTK Imager is a simple but concise tool. It saves an image of a hard disk in
         --outpass P     : encrypt dest file using password P
         --outcert C [P] : encrypt dest file using certificate C with password P
 
-By Soufiane Boussali
+By Soufiane Boussali<br>
 Source : AccessData
