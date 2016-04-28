@@ -1,20 +1,14 @@
 # FTK-Imager-OSX
 FTK Imager a Forensics Tools For MAC OS X
 # Install FTK Imager For Mac OS 
-
 git clone git@github.com:MrMugiwara/FTK-Imager-OSX.git<br>
-
 cd FTK-Imager-OSX<br>
-
 chmod +x ftkimager<br>
-
 ./ftkimager -h<br>
 
+# How To Use For FTK Imager
 
-# Usage For FTK Imager
-
-Usage:  ftkimager source [dest_file] [options] <br>
-
+Usage:  ./ftkimager source [dest_file] [options] <br>
 AccessData FTK Imager v3.1.1 CLI (Aug 24 2012) <br>
 Copyright 2006-2012 AccessData Corp., 384 South 400 West, Lindon, UT 84042 <br>
 All rights reserved.<br>
