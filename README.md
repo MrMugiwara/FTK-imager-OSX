@@ -1,5 +1,6 @@
-# FTK-Imager-OSX
-FTK Imager a Forensics Tools For MAC OS X
+# FORENSICS TOOLKIT 
+The FTK Imager is a simple but concise tool. It saves an image of a hard disk in one file or in segments that may be later on reconstructed. It calculates MD5 hash values and confirms the integrity of the data before closing the files.<br>
+
 # Install FTK Imager For Mac OS 
 git clone git@github.com:MrMugiwara/FTK-Imager-OSX.git<br>
 cd FTK-Imager-OSX<br>
