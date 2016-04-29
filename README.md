@@ -36,7 +36,7 @@ The FTK Imager is a simple but concise tool. It saves an image of a hard disk in
         --description X
         --examiner X
         --notes X
-      AD Encryption Options:
+        AD Encryption Options:
         --inpass P      : decrypt source file using password P
         --incert C [P]  : decrypt source file using certificate C with password P
         --outpass P     : encrypt dest file using password P
