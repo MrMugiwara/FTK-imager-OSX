@@ -2,8 +2,8 @@
 The FTK Imager is a simple but concise tool. It saves an image of a hard disk in one file or in segments that may be later on reconstructed. It calculates MD5 hash values and confirms the integrity of the data before closing the files.
 
 # Install FTK Imager For Mac OSX
-                    git clone git@github.com:MrMugiwara/FTK-Imager-OSX.git
-                    cd FTK-Imager-OSX
+                    git clone git@github.com:MrMugiwara/FTK-imager-OSX.git
+                    cd FTK-imager-OSX
                     chmod +x ftkimager
                     ./ftkimager -h
 
