@@ -41,6 +41,8 @@ The FTK Imager is a simple but concise tool. It saves an image of a hard disk in
         --incert C [P]  : decrypt source file using certificate C with password P
         --outpass P     : encrypt dest file using password P
         --outcert C [P] : encrypt dest file using certificate C with password P
+#Exemple :
+  ![alt tag](https://github.com/MrMugiwara/FTK-imager-OSX/blob/master/ftk.png)
 
 By Soufiane Boussali<br>
 Source : AccessData
