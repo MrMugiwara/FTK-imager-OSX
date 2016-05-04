@@ -10,7 +10,7 @@ The FTK Imager is a simple but concise tool. It saves an image of a hard disk in
 # How To Use FTK Imager On MAC OSX
 
         Usage:  ./ftkimager source [dest_file] [options] 
-        
+          
         AccessData FTK Imager Copyright 2006-2012 AccessData Corp. 
         384 South 400 West, Lindon, UT 84042 All rights reserved.
                     source can specify a block device, a supported image file, or `-' for stdin
