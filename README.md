@@ -3,10 +3,10 @@ The FTK Imager is a simple but concise tool. It saves an image of a hard disk in
 
 # Install FTK Imager For Mac OSX
 
-                    git clone git@github.com:MrMugiwara/FTK-imager-OSX.git
-                    cd FTK-imager-OSX
-                    chmod +x ftkimager
-                    ./ftkimager --help
+                      git clone git@github.com:MrMugiwara/FTK-imager-OSX.git
+                      cd FTK-imager-OSX
+                      chmod +x ftkimager
+                     ./ftkimager --help
 
 # How To Use FTK Imager On MAC OSX
 
@@ -42,9 +42,9 @@ The FTK Imager is a simple but concise tool. It saves an image of a hard disk in
         --incert C [P]  : decrypt source file using certificate C with password P
         --outpass P     : encrypt dest file using password P
         --outcert C [P] : encrypt dest file using certificate C with password P
-#Exemple :
+# Exemple :
   ![alt tag](https://github.com/MrMugiwara/FTK-imager-OSX/blob/master/ftk.png)
 
 By Soufiane Boussali<br>
-Source : AccessData<br>
+Vendor : AccessData<br>
  ![alt tag](https://github.com/MrMugiwara/FTK-imager-OSX/blob/master/accessdata.gif)
